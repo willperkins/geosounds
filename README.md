@@ -1,4 +1,8 @@
-geosounds
-=========
+Description
+===========
+``geosounds`` lets you listen to geo-tagged tracks.
 
-Listen to sounds geo-tagged near you.
+Installation
+------------
+To install ``geosounds`` drop the files in a web directory.
+If you don't have a webserver, you can run ``main.py`` to run the app at http://localhost:8080
