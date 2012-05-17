@@ -1,0 +1,16 @@
+var data = [
+	// tempelhof
+  {
+	"lat": 52.4733329,
+ 	"audio": "http://upload.wikimedia.org/wikipedia/en/6/61/I_Have_A_Dream_sample.ogg",
+ 	"radius": 0.5,
+ 	"long": 13.401389
+  },
+	// goerli
+  {
+	"lat": 52.496499,
+ 	"audio": "http://upload.wikimedia.org/wikipedia/commons/3/3a/Jfk_berlin_address_high.ogg",
+ 	"radius": 0.5,
+ 	"long": 13.437738
+  }
+];
